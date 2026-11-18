@@ -35,7 +35,7 @@ Please remember that:
 - Changes should go in pull requests, not issues.
 - Review is always about the code, never about the person. Feedback is meant to help you and the project grow.
 - Respond to review comments by pushing new commits or explaining your reasoning from another standpoint. Do not take change requests personally.
-- Atleast one maintainer approval is required to merge your code into the project
+- At least one maintainer approval is required to merge your code into the project
 - Maintainers may close pull requests that are inactive for more than 2 weeks.
 
 ---
@@ -43,7 +43,7 @@ Please remember that:
 # 5 - Reporting issues
 Before opening an issue, think about whether your issue meets the requirements demonstrated below.
 Your issue must have: a short and descriptive title, steps to reproduce such problem, expected behavior vs actual behavior, version, operating system, and relevant details, logs, screenshots, and/or error output where helpful. 
-**Security vulnerabilities should be reported immediately to (contact@orizonsoftwarefoundation.org) and should NOT be reported publicly whatsoever.**
+**Security vulnerabilities should be reported immediately to (contact@orizonsoftwarefoundation.org) with a patch and instructions to implement. It should only be released to the public after 7 days of no response and the patch should be publicized. .**
 
 ---
 

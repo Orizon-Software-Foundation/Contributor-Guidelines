@@ -5,7 +5,7 @@ Welcome! Thank you for choosing to contribute to our foundation. These are the g
 ---
 
 # 1 - Artificial Intelligence Usage Policy
-The use of Artificial Intelligence (AI) within aspects of projects such as code, pull requests, and issues is _**strictly forbidden**_. Use of AI will result in a blacklist from this foundation, no exceptions.
+The use of Artificial Intelligence (AI) within certain aspects of projects such as code, pull requests, and issues is _**strictly forbidden**_. Use of AI in these manners will result in a blacklist from this foundation, no exceptions. AI should **ONLY** be used as a **TOOL**, as an **ASSISTANT**, and as a **LAST RESORT**, and **NEVER** as a replacement for handmade code, issues, pull requests, and human intelligence.
 
 ---
 

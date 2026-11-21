@@ -43,7 +43,7 @@ Please remember that:
 # 5 - Reporting issues
 Before opening an issue, think about whether your issue meets the requirements demonstrated below.
 Your issue must have: a short and descriptive title, steps to reproduce such problem, expected behavior vs actual behavior, version, operating system, and relevant details, logs, screenshots, and/or error output where helpful. 
-**Security vulnerabilities should be reported immediately to (contact@orizonsoftwarefoundation.org) with a patch and instructions for implementation. It should only be released to the public after 7 days of no response and the patch should be publicized. .**
+**Security vulnerabilities should be reported immediately to (contact@orizonsoftwarefoundation.org) with a patch and instructions for implementation. It should only be released to the public after 7 days of no response and the patch should be publicized.**
 
 ---
 
